@@ -1,6 +1,5 @@
 package com.design.demo.command_命令;
 
-import com.sun.webkit.dom.RectImpl;
 
 public class ConcreteCommand1 implements Command {
 
